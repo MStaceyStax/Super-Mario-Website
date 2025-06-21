@@ -1,3 +1,6 @@
+🍿Preview
+  ![A Super Mario Webaite ](https://github.com/user-attachments/assets/88b8114e-fda9-4917-87d8-d08649290cbb)
+
    A Super Mario Website
 
 💭 Project - A static Super Mario Website created after learning HTML & CSS
@@ -16,9 +19,6 @@
 
 📚 What I Learned
    During this project, I've picked up important skills and a better understanding of complex ideas, which improved my logical thinking.
-
-🍿Preview
-  ![A Super Mario Webaite ](https://github.com/user-attachments/assets/88b8114e-fda9-4917-87d8-d08649290cbb)
 
 🚦 Running the Project
     To run the project in your local environment, follow these steps:
