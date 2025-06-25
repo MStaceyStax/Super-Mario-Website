@@ -1,7 +1,7 @@
-🍿Preview
-  ![A Super Mario Webaite ](https://github.com/user-attachments/assets/88b8114e-fda9-4917-87d8-d08649290cbb)
 
    A Super Mario Website
+
+🍿Preview - ![A Super Mario Webaite ](https://github.com/user-attachments/assets/88b8114e-fda9-4917-87d8-d08649290cbb)
 
 💭 Project - A static Super Mario Website created after learning HTML & CSS
 
